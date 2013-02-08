@@ -5,6 +5,8 @@
 //  Created by mightypixel on 8/01/13.
 //
 
+#include "PIXAdManager.h"
+
 @implementation NetworkHelper
 
 + (void) activate
